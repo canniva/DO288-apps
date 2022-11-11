@@ -5,3 +5,4 @@ spec:
       - envFrom:
         - configMapRef:
             name: db-config
+
